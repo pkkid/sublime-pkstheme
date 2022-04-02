@@ -1,0 +1,15 @@
+{        
+    "name": "theme-pkstheme",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": ">=0.9.0-pre.1"
+    },
+    "publisher": "Michael Shepanski",
+    "contributes": {
+        "themes": [{
+            "label": "PKsTheme",
+            "uiTheme": "vs-dark",
+            "path": "./pkstheme.sublime-color-scheme"
+        }]
+    }
+}
